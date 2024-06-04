@@ -1,15 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>http://0.0.0.0:4000/about/</loc>
-<lastmod>2022-02-06T11:43:00+00:00</lastmod>
+<loc>http://localhost:4000/example/jpa/2024-04-19-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4%EC%97%90%EC%84%9C-PK-%EA%B0%92%EC%9D%84-%EA%B4%80%EB%A6%AC%ED%95%A0-%EB%95%8C-JPA%EC%9D%98-%EB%8F%99%EC%9E%91-%EB%B0%A9%EC%8B%9D/</loc>
+<lastmod>2024-04-22T05:49:54+00:00</lastmod>
 </url>
 <url>
-<loc>http://0.0.0.0:4000/</loc>
-<lastmod>2022-02-06T11:43:00+00:00</lastmod>
+<loc>http://localhost:4000/about/</loc>
+<lastmod>2024-04-22T05:45:31+00:00</lastmod>
 </url>
 <url>
-<loc>http://0.0.0.0:4000/posts/</loc>
-<lastmod>2022-02-06T11:43:00+00:00</lastmod>
+<loc>http://localhost:4000/</loc>
+<lastmod>2024-04-22T05:45:31+00:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/posts/</loc>
+<lastmod>2024-04-22T05:45:31+00:00</lastmod>
 </url>
 </urlset>
